@@ -1,6 +1,14 @@
-<h1>Hi, I'm Wilmer! <br/><a href="https://github.com/lopezcybersec">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Wilmer! <br/><a href="https://github.com/lopezcybersec">Cybersecurity Professional Certificate Student</a></h1>
 
 <h2>👨‍💻Cybersecurity Projects:</h2>
+
+-[TryHackMe Journal "Coming Soon"] 
+
+-[Incident Handler's Journal "Coming Soon"]
+
+-[Vulnerable System Analysis "Coming Soon"]
+
+-[SQL Query “Coming Soon”]
 
 <h2> Certifications:</h2>
 <a href="https://drive.google.com/file/d/1YrynXlzCTvvJBr2SKoBCkokxn349RUSa/view?usp=sharing">Google Foundations of Cubersecurity</a>
