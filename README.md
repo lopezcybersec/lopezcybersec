@@ -14,6 +14,8 @@
 
 <h2> Certifications:</h2>
 <a href="https://drive.google.com/file/d/1YrynXlzCTvvJBr2SKoBCkokxn349RUSa/view?usp=sharing">Google Foundations of Cubersecurity</a>
+
+<a href="https://www.coursera.org/account/accomplishments/certificate/UL6KZNEV9WJ7">Play it Safe: Manage Security Risk</a>
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="wilmer-lopez| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
