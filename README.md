@@ -2,7 +2,7 @@
 
 <h2>👨‍💻Cybersecurity Projects:</h2>
 
-<a href="https://github.com/lopezcybersec/Botium-Toys-Internal-Security-Audit">Internal Security Audit</a>
+<a href="https://github.com/lopezcybersec/Botium-Toys-Internal-Security-Audit">Sample Security Audit</a>
 
 -[TryHackMe Journal "Coming Soon"] 
 
