@@ -1,7 +1,8 @@
 <h1>Hi, I'm Wilmer! <br/><a href="https://github.com/lopezcybersec">Cybersecurity Professional Certificate Student</a></h1>
 
 <h2>👨‍💻Cybersecurity Projects:</h2>
--
+
+<a> href="https://docs.google.com/document/d/1hxTnzkvmfGj6QZgJYW2VO4bFm1KVptszpd1NjSzYXpk/edit?usp=sharing</a> [Internal Security Audit]
 
 -[TryHackMe Journal "Coming Soon"] 
 
