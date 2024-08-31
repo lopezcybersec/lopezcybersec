@@ -4,7 +4,7 @@
 
 <a href="https://github.com/lopezcybersec/Botium-Toys-Internal-Security-Audit">Sample Security Audit</a>
 
--[TryHackMe Journal "Coming Soon"] 
+<a href="https://docs.google.com/document/d/1M95F5SOVn8MICiYllRm8uZNIScMhpmXmMCmaShcvPF8/edit?usp=sharing">TryHackMe Journal</a>
 
 -[Incident Handler's Journal "Coming Soon"]
 
