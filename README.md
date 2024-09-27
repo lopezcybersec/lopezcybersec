@@ -13,7 +13,7 @@
 SQL Query
 
 <h2> Certifications:</h2>
-<a href="https://coursera.org/share/8d3d8c2623ff8027a694dd19ee3202ce">Google Foundations of Cubersecurity</a>
+<a href="https://www.coursera.org/account/accomplishments/certificate/FJQDE3NS1DAI">Google Foundations of Cubersecurity</a>
 
 <a href="https://www.coursera.org/account/accomplishments/certificate/UL6KZNEV9WJ7">Play it Safe: Manage Security Risk</a>
 <h2> 🤳 Connect with me:</h2>
