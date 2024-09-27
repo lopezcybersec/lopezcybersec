@@ -16,8 +16,11 @@ SQL Query
 <a href="https://www.coursera.org/account/accomplishments/certificate/FJQDE3NS1DAI">Google Foundations of Cubersecurity</a>
 
 <a href="https://www.coursera.org/account/accomplishments/certificate/UL6KZNEV9WJ7">Play it Safe: Manage Security Risk</a>
-<h2> 🤳 Connect with me:</h2>
 
+<a href="<a href="https://www.coursera.org/account/accomplishments/certificate/UL6KZNEV9WJ7">Connect and Protect: Networks and Network Security</a>
+<h2> 🤳 Connect with me:</h2>">Play it Safe: Manage Security Risk</a>
+
+<h2> 🤳 Connect with me:</h2>
 [<img align="left" alt="wilmer-lopez| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/wilmer-lopez-4a7875321/
