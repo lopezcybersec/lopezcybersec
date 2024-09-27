@@ -14,8 +14,7 @@ SQL Query
 
 <h2> Certifications:</h2>
 <a href="https://www.coursera.org/account/accomplishments/certificate/FJQDE3NS1DAI">Google Foundations of Cubersecurity</a> 
-
-
+ 
 <a href="https://www.coursera.org/account/accomplishments/certificate/UL6KZNEV9WJ7">Play it Safe: Manage Security Risk</a> 
 
 <a href="https://www.coursera.org/account/accomplishments/certificate/UL6KZNEV9WJ7">Connect and Protect: Networks and Network Security</a>
