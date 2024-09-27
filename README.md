@@ -10,10 +10,10 @@
 
 -[Vulnerable System Analysis "Coming Soon"]
 
--[SQL Query “Coming Soon”]
+SQL Query
 
 <h2> Certifications:</h2>
-<a href="https://drive.google.com/file/d/1YrynXlzCTvvJBr2SKoBCkokxn349RUSa/view?usp=sharing">Google Foundations of Cubersecurity</a>
+<a href="https://coursera.org/share/8d3d8c2623ff8027a694dd19ee3202ce">Google Foundations of Cubersecurity</a>
 
 <a href="https://www.coursera.org/account/accomplishments/certificate/UL6KZNEV9WJ7">Play it Safe: Manage Security Risk</a>
 <h2> 🤳 Connect with me:</h2>
