@@ -14,10 +14,10 @@ SQL Query
 
 <h2> Certifications:</h2>
 <a href="https://www.coursera.org/account/accomplishments/certificate/FJQDE3NS1DAI">Google Foundations of Cubersecurity</a> 
-  
+
 <a href="https://www.coursera.org/account/accomplishments/certificate/UL6KZNEV9WJ7">Play it Safe: Manage Security Risk</a> 
- 
-<a href="https://www.coursera.org/account/accomplishments/certificate/UL6KZNEV9WJ7">Connect and Protect: Networks and Network Security</a>
+
+<a href="https://www.coursera.org/account/accomplishments/certificate/GWAPWCBA1X06">Connect and Protect: Networks and Network Security</a>
 
 <h2> 🤳 Connect with me:</h2>
 [<img align="left" alt="wilmer-lopez| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
