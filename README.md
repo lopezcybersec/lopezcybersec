@@ -20,6 +20,10 @@ SQL Query
 
 <a href="https://www.coursera.org/account/accomplishments/certificate/GWAPWCBA1X06">Connect and Protect: Networks and Network Security</a>
 
+<a href="https://www.coursera.org/account/accomplishments/certificate/SKDCJNLYHLKG">Tools of the Trade: Linux and SQL</a>
+
+<a href="https://www.coursera.org/account/accomplishments/certificate/KIBHMFR2IG52">SQL Joins</a>
+
 <h2> 🤳 Connect with me:</h2>
 [<img align="left" alt="wilmer-lopez| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
