@@ -10,6 +10,8 @@
 
 <a href="https://github.com/lopezcybersec/Vulnerability-Assessment-Activity">Vulnerable System Analysis</a>
 
+<a href="https://github.com/lopezcybersec/Linux-File-Permissions">File Permissions in Linux</a>
+
 <a href="https://github.com/lopezcybersec/SQL-Query-Filter-Application">SQL Query</a>
 
 <h2> Certifications:</h2> 
