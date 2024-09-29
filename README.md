@@ -10,7 +10,7 @@
 
 <a href="https://github.com/lopezcybersec/Vulnerability-Assessment-Activity">Vulnerable System Analysis</a>
 
-SQL Query
+<a href="https://github.com/lopezcybersec/SQL-Query-Filter-Application">SQL Query</a>
 
 <h2> Certifications:</h2> 
 
