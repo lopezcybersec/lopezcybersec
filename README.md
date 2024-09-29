@@ -8,7 +8,7 @@
 
 -[Incident Handler's Journal "Coming Soon"]
 
--[Vulnerable System Analysis "Coming Soon"]
+<a href="https://github.com/lopezcybersec/Vulnerability-Assessment-Activity">Vulnerable System Analysis</a>
 
 SQL Query
 
