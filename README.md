@@ -24,6 +24,8 @@
 
 <a href="https://www.coursera.org/account/accomplishments/certificate/SKDCJNLYHLKG">Tools of the Trade: Linux and SQL</a>
 
+<a href="https://www.coursera.org/account/accomplishments/certificate/HSGEOP7OIRVW">Assets, Threats, and Vulnerabilities</a>
+
 <a href="https://www.coursera.org/account/accomplishments/certificate/KIBHMFR2IG52">SQL Joins</a>
 
 <h2> 🤳 Connect with me:</h2>
