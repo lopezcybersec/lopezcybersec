@@ -6,7 +6,7 @@
 
 <a href="https://docs.google.com/document/d/1M95F5SOVn8MICiYllRm8uZNIScMhpmXmMCmaShcvPF8/edit?usp=sharing">TryHackMe Journal</a>
 
--[Incident Handler's Journal "Coming Soon"]
+<a href="https://docs.google.com/document/d/16VOruvd61sQTai6m_ZH0LQwphWRkzmwUyq_2TOgE4Lk/edit?usp=sharing">Incident Handler's Journal</a>
 
 <a href="https://github.com/lopezcybersec/Vulnerability-Assessment-Activity">Vulnerable System Analysis</a>
 
