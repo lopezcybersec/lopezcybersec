@@ -14,6 +14,8 @@
 
 <a href="https://github.com/lopezcybersec/SQL-Query-Filter-Application">SQL Query</a>
 
+<a href="https://docs.google.com/document/d/1idObeLmt736apeiu7DUWgyDFi1rOsYwSJPXKp_zEsAY/edit?usp=sharing">Algorithms With Python</a>
+
 <h2> Certifications:</h2> 
 
 <a href="https://www.coursera.org/account/accomplishments/certificate/FJQDE3NS1DAI">Google Foundations of Cubersecurity</a> 
