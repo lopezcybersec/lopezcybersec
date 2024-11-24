@@ -32,6 +32,8 @@
 
 <a href="https://www.coursera.org/account/accomplishments/certificate/IP9BXSJIXBFB">Sound the Alarm: Detection and Response</a>
 
+<a href="https://www.coursera.org/account/accomplishments/certificate/GBN7EPLMYZ7Y">Automate Cybersecurity Tasks with Python</a>
+
 <h2> 🤳 Connect with me:</h2>
 <img align="left" alt="wilmer-lopez| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />linkedin
 
