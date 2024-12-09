@@ -34,6 +34,10 @@
 
 <a href="https://www.coursera.org/account/accomplishments/certificate/GBN7EPLMYZ7Y">Automate Cybersecurity Tasks with Python</a>
 
+<a href="https://www.coursera.org/account/accomplishments/certificate/NTZSUN0SPPPD">Put It to Work: Prepare for Cybersecurity Jobs<a/>
+
+<a href="https://www.coursera.org/account/accomplishments/specialization/certificate/T80OPPF05FOM">Google Cybersecurity Professional Certificate<a/>
+
 <h2> 🤳 Connect with me:</h2>
 <img align="left" alt="wilmer-lopez| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />linkedin
 
